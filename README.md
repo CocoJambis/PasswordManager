@@ -1,4 +1,4 @@
-markdown# Simple Python CLI Password Manager
+Simple Python CLI Password Manager
 
 A lightweight, command-line interface (CLI) password manager written in **Python**. This script automatically generates secure, random 12-character passwords and organizes your credentials into a local CSV file.
 
